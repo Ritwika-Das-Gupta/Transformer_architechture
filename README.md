@@ -34,4 +34,4 @@ Each decoder layer has three main sub-layers:
 
 Each sub-layer in both the encoder and decoder uses residual connections followed by layer normalization.
 ## Code Explanation
-You will find in depth code explanation here - https://medium.com/@ritwika.work03/mastering-transformers-a-guide-to-building-the-heart-of-modern-ai-aac83bed5289
+You will find in depth code explanation here - [Medium Blog Post](https://medium.com/@ritwika.work03/mastering-transformers-a-guide-to-building-the-heart-of-modern-ai-aac83bed5289)
